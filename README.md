@@ -1,2 +1,4 @@
 # SOS_MobileApp
-Group 7 //Mobile App class - Durham
+Mobile App Development Program lead by General Electric's Senior Software Engineer Search Dr. Erin-Elizabeth Durham
+
+This is an app that integrated communication, scheduling, and events for small team development.  
